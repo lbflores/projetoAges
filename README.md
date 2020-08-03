@@ -1,2 +1,2 @@
 # Exemplo de texto
-* texto 1
+* texto 2
